@@ -1,0 +1,38 @@
+@media (max-width: 480px) {
+  body {
+    background-color: lightblue;
+  }
+}
+nav {
+  text-align: center;
+}
+nav a {
+  margin-left: 10px;
+  margin-top: 3px;
+  color:#98ff98;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+img {
+  margin-top: 200px;
+  margin-left: 50px;
+}
+#email{
+  text-align: right;
+  font-size: 20px;
+}
+
+body{
+  background: url("bg4.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: 'Freckle Face', cursive;
+  color: white;
+}
